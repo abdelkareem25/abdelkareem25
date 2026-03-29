@@ -1,5 +1,5 @@
 <div align="center">
-### Hi there, I'm Abdelkarim Hany 👋
+### Hi there, I'm Abdelkarim Badr 👋
   
 #### .NET Developer | Software Engineer
 </div>
@@ -24,7 +24,6 @@
 ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=swagger&logoColor=white)
 ![Unit Testing](https://img.shields.io/badge/Unit%20Testing-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![SOLID Principles](https://img.shields.io/badge/SOLID%20Principles-2C3E50?style=for-the-badge&logo=abstract&logoColor=white)
 ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-8E44AD?style=for-the-badge&logo=codeforces&logoColor=white)
 
